@@ -19,6 +19,15 @@ Then sit back, relax, and wait for it to all be sorted.
 
 Once its done, look in the output.txt if you want to know what the recognized songs were.
 
+## Output
+
+An example of the "output.txt" is as follows.
+
+```
+Recognized song in 'Africa.mp3': Africa - Toto
+Recognized song in 'Beat It.mp3': Beat It - Michael Jackson
+```
+
 ## Issues
 
 If you have any, feel free to make an Issue.
