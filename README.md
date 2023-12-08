@@ -23,4 +23,4 @@ Once its done, look in the output.txt if you want to know what the recognized so
 
 If you have any, feel free to make an Issue.
 
-This took me like 10 minutes to make so it is not polished at all.
+This took me like 1 hour to make so it is not polished at all.
