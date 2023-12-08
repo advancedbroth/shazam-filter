@@ -9,7 +9,7 @@ Now you'll need to install some dependencies, open up Powershell or CMD and type
 
 ```pip install shazamio```
 
-Finally, download this repository (Click "Code" and then "Download ZIP") and extract it. Copy all the songs to the "songs" folder (If it doesn't exist, create it.), then in Explorer go to the root of the extracted folder and type in ```powershell``` or ```cmd``` in the address bar at the top.
+Finally, download this repository (Click "Code" and then "Download ZIP") and extract it. Create a folder called "songs" in the root of the extracted folder and copy all the songs that need identifying into the "songs" folder, then in Explorer go to the root of the extracted folder and type in ```powershell``` or ```cmd``` in the address bar at the top.
 
 Then run the following command.
 
